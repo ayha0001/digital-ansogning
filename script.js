@@ -18,7 +18,7 @@ const texts = {
     texts: [
       // OM MIG
       { text: "Mit navn er Aylin Saber", location: ".om-mig h2" },
-      { text: "Aspirende frontend-udvikler, med interesse indenfor responsivt design og tilgængelighed.", location: ".om-mig h4" },
+      { text: "Multimediedesign-studerende med interesse for webudviking, content-creation og SoMe.", location: ".om-mig h4" },
       { text: "Mine projekter", location: ".om-mig a.btn" },
 
       // FACTS ME
@@ -59,7 +59,7 @@ const texts = {
     texts: [
       // ABOUT ME
       { text: "My name is Aylin Saber", location: ".om-mig h2" },
-      { text: "Aspiring frontend developer, with an interest in responsive design and accessibility.", location: ".om-mig h4" },
+      { text: "Multimedia design student with an interest in web development, content-creation, and social media.", location: ".om-mig h4" },
       { text: "My projects", location: ".om-mig a.btn" },
 
       // FACTS ME
