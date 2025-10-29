@@ -298,6 +298,10 @@ footer div {
   margin-bottom: 10px;
 }
 
+.projects h3:first-of-type {
+  margin-top: 30px;
+}
+
 .projects-el img {
   border: 1px solid var(--color1);
   border-radius: 10px;
@@ -353,8 +357,9 @@ footer div {
   }
 
   .kom-liste {
-    margin: 70px 150px 0px;
+    margin: 130px 150px 0px;
     min-height: 520px;
+    padding: 120px 0;
   }
 
   .kom-liste ul {
@@ -379,13 +384,14 @@ footer div {
   }
 
   .projects {
-    margin: 50px 150px 30px;
+    margin: 0px 150px 0px;
+    padding: 120px 0 30px;
   }
 
   .projects h3 {
     font-weight: 500;
     font-size: 2.3rem;
-    margin-top: 30px;
+    margin-top: 100px;
   }
 
   .projects-el {
